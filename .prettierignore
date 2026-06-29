@@ -1,0 +1,7 @@
+node_modules
+package-lock.json
+.claude/
+
+# Prettier에 기본 파서가 없는 언어 (각자 포매터 사용)
+**/*.py
+**/*.java

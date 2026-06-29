@@ -1,0 +1,13 @@
+{
+  "name": "lck-study",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LCK LeetCode 스터디 레포",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}

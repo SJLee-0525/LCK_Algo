@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Java
+*.class
+target/
+.gradle/
+build/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+
+# Claude Code (로컬 개인 설정)
+.claude/settings.local.json
